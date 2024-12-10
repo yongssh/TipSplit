@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/f302c225-6560-4d39-b958-99ddfd8c4d4e
 # TipSplit
 
 A SwiftUI app to make splitting bills with friends easier, with built-in Venmo request functionality. 
