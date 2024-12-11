@@ -1,7 +1,7 @@
 
 # TipSplit
 
-An iOS app to make splitting bills with friends easier, with built-in Venmo request functionality, built in Swift with SwiftUI.
+An iOS app to make splitting bills with friends easier, with Venmo request functionality, built in Swift with SwiftUI.
 
 ## Features
 Tip Calculation: Adjust tip percentages and see real-time totals.
